@@ -65,7 +65,7 @@ help: |
   • Для того чтобы открыть определенную мангу просто отправь мне ссылку или код
   • Так же возможно загрузить картинки в .zip файле с помощью /zip команды. Например: `/zip 234638`
   
-  [GitHub](https://github.com/iamdowner/nhentai-telegram-bot)
+  [GitHub](https://github.com/Achu2234/NhentaiDLBot)
 donation_message: |
   Support this instance:
 search_tips: |
